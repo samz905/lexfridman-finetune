@@ -1,0 +1,8 @@
+deepgram-sdk>=3.0.0
+yt-dlp>=2023.11.16
+backoff>=2.2.1
+python-dotenv>=1.0.0
+aiofiles>=23.2.1
+openai-whisper
+torch
+ffmpeg-python
