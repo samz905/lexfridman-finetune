@@ -40,3 +40,10 @@ wheels/
 # OS
 .DS_Store
 Thumbs.db
+
+# Environment variables
+.env
+
+# Project-specific
+downloaded_audio/
+transcripts/

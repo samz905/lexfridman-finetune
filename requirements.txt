@@ -6,3 +6,5 @@ aiofiles>=23.2.1
 openai-whisper
 torch
 ffmpeg-python
+pydub>=0.25.1
+httpx>=0.24.0
